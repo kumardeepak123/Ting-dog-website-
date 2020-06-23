@@ -1,2 +1,2 @@
 # Ting-dog-website-
-it is  a static responsive web site .
+it is  a static responsive web site 
